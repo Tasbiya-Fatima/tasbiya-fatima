@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:164e63,100:06b6d4&height=230&section=header&text=Tasbiya%20Fatima%20Shaikh&fontSize=40&fontColor=f8fafc&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=59&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:164e63,70:0e7490,100:06b6d4&height=250&section=header&text=Tasbiya%20Fatima%20Shaikh&fontSize=40&fontColor=f8fafc&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <br />
 
@@ -18,19 +18,36 @@
 
 ## `whoami`
 
+<table>
+<tr>
+<td width="62%" valign="middle">
+
 I’m **Tasbiya**, a final-year Computer Engineering student at **Guru Gobind Singh Foundation** with a current **SGPA of 9.32**.
 
 I enjoy understanding how ideas move from a rough sketch to a reliable application. My current path is taking me deeper into **Java, Python, backend development, databases, DSA, and full-stack development**—while hackathons keep teaching me how to turn constraints into useful solutions.
+
+<br />
+
+<img src="https://img.shields.io/badge/Currently%20learning-Full--stack%20%26%20DSA-0891b2?style=for-the-badge" />
+
+</td>
+<td width="38%" align="center">
+
+<img src="https://illustrations.popsy.co/amber/female-programmer.svg" width="280" alt="Cartoon illustration of a woman programming" />
+
+</td>
+</tr>
+</table>
 
 > **My working principle:** learn the fundamentals, build something real, then make it better.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:0891b2&height=4&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:0891b2,100:7dd3fc&height=5&width=900" />
 
 </div>
 
-## Current coordinates
+## ✦ Current coordinates
 
 | Focus | What I’m doing |
 | :--- | :--- |
@@ -39,6 +56,12 @@ I enjoy understanding how ideas move from a rough sketch to a reliable applicati
 | ⚙️ Building | Clean, practical projects with Java and Python |
 | 🏁 Joining | Hackathons and collaborative problem-solving |
 | 🤝 Open to | Learning with others and meaningful collaborations |
+
+<div align="center">
+<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Tasbiya%20Fatima&backgroundColor=b6e3f4,c0aede,d1d4f9" width="165" alt="Cartoon avatar of Tasbiya" />
+<br />
+<sub><i>Curious mind. Calm debugger. Persistent builder.</i></sub>
+</div>
 
 ## My toolkit
 
@@ -73,18 +96,18 @@ I enjoy understanding how ideas move from a rough sketch to a reliable applicati
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:0891b2&height=4&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:0891b2,100:7dd3fc&height=5&width=900" />
 
 </div>
 
-## Milestones so far
+## ✧ Milestones so far
 
 - 🧠 **Smart India Hackathon** — participated in the internal round
 - 💡 **FEC Mumbai Hackathon** — participant
 - 🗺️ **Geodata Processing with Python & ML** — completed workshop
 - ⭐ **9.32 SGPA** — Computer Engineering
 
-## A small build philosophy
+## ☁ A small build philosophy
 
 ```text
 Observe  →  Break the problem down  →  Build  →  Test  →  Keep improving
@@ -92,7 +115,7 @@ Observe  →  Break the problem down  →  Build  →  Test  →  Keep improving
 
 I don’t want to only collect technologies. I want to understand where they fit, why a solution works, and how to make it more useful for the person on the other side of the screen.
 
-## GitHub activity
+## ✹ GitHub activity
 
 <div align="center">
 
@@ -105,7 +128,7 @@ I don’t want to only collect technologies. I want to understand where they fit
 
 </div>
 
-## Beyond the terminal
+## ♡ Beyond the terminal
 
 🌙 Late-night problem solving  
 📚 Notes that turn confusing concepts into simple ones  
@@ -122,7 +145,7 @@ Whether it’s a project, a challenging idea, or a collaboration, I’m always i
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:164e63,100:0f172a&height=130&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,45:0891b2,100:0f172a&height=150&section=footer&animation=fadeIn" />
 
 <sub>Designed with curiosity · Built with patience · Powered by coffee ☕</sub>
 
