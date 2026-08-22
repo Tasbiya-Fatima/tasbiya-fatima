@@ -33,7 +33,7 @@ I enjoy understanding how ideas move from a rough sketch to a reliable applicati
 </td>
 <td width="38%" align="center">
 
-<img src="https://illustrations.popsy.co/amber/female-programmer.svg" width="280" alt="Cartoon illustration of a woman programming" />
+<img src="./assets/cartoon-coder.svg" width="280" alt="Cartoon illustration of Tasbiya programming" />
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ I enjoy understanding how ideas move from a rough sketch to a reliable applicati
 | 🤝 Open to | Learning with others and meaningful collaborations |
 
 <div align="center">
-<img src="https://api.dicebear.com/9.x/notionists/svg?seed=Tasbiya%20Fatima&backgroundColor=b6e3f4,c0aede,d1d4f9" width="165" alt="Cartoon avatar of Tasbiya" />
+<img src="./assets/cartoon-avatar.svg" width="165" alt="Cartoon avatar of Tasbiya" />
 <br />
 <sub><i>Curious mind. Calm debugger. Persistent builder.</i></sub>
 </div>
