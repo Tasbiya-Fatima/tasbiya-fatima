@@ -1,179 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:a855f7,100:818cf8&height=220&section=header&text=Hey%2C%20I%27m%20Tasbiya!%20%F0%9F%8C%B8&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Curious%20Builder%20%7C%20Quick%20Learner&descAlignY=60&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:164e63,100:06b6d4&height=230&section=header&text=Tasbiya%20Fatima%20Shaikh&fontSize=40&fontColor=f8fafc&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=59&descSize=17&animation=fadeIn" />
 
-<br/>
+<br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%B8;Final-year+Computer+Engineering+student+%F0%9F%92%BB;Hackathon+participant+%7C+Problem+solver+%7C+Lifelong+learner;Building+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Turning+curiosity+into+working+software;Learning+the+layers+behind+every+application;One+problem%2C+one+commit%2C+one+step+at+a+time)](https://git.io/typing-svg)
 
-<br/>
+<br />
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasbiya777@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tasbiya-Fatima)
-![Profile Views](https://komarev.com/ghpvc/?username=Tasbiya-Fatima&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:tasbiya777@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Tasbiya-Fatima)
+![Profile Views](https://komarev.com/ghpvc/?username=Tasbiya-Fatima&color=0891b2&style=for-the-badge&label=VISITORS)
 
 </div>
 
-<br/>
+<br />
 
-## 🌸 About Me
+## `whoami`
 
-<img align="right" src="hijab-coder_2.png" width="260" alt="Illustration of a coder" style="border-radius:16px; margin-left: 20px;"/>
+I’m **Tasbiya**, a final-year Computer Engineering student at **Guru Gobind Singh Foundation** with a current **SGPA of 9.32**.
 
-```yaml
-name:     Tasbiya Fatima Shaikh
-degree:   Computer Engineering (Final Year)
-college:  Guru Gobind Singh Foundation
-sgpa:     9.32 ⭐
+I enjoy understanding how ideas move from a rough sketch to a reliable application. My current path is taking me deeper into **Java, Python, backend development, databases, DSA, and full-stack development**—while hackathons keep teaching me how to turn constraints into useful solutions.
 
-i_love:
-  - Writing clean Java & Python code
-  - Digging into backend concepts
-  - Competing in hackathons
+> **My working principle:** learn the fundamentals, build something real, then make it better.
 
-currently:
-  - Exploring full-stack development
-  - Sharpening my DSA skills
-  - Open to collaborations!
+<div align="center">
 
-fun_fact: >
-  I debug code with the same energy
-  I use to find my earrings 💜
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:0891b2&height=4&width=900" />
+
+</div>
+
+## Current coordinates
+
+| Focus | What I’m doing |
+| :--- | :--- |
+| 🧭 Exploring | Full-stack development and backend concepts |
+| 🧩 Practising | Data Structures & Algorithms |
+| ⚙️ Building | Clean, practical projects with Java and Python |
+| 🏁 Joining | Hackathons and collaborative problem-solving |
+| 🤝 Open to | Learning with others and meaningful collaborations |
+
+## My toolkit
+
+<div align="center">
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f59e0b)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8)
+![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=60a5fa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15)
+
+### Web & Data
+
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+
+### Tools & Concepts
+
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=38bdf8)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0f172a?style=for-the-badge&logo=intellij-idea&logoColor=f472b6)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=facc15)
+![OOP](https://img.shields.io/badge/OOP-0f172a?style=for-the-badge&logo=buffer&logoColor=22d3ee)
+![DSA](https://img.shields.io/badge/DSA-0f172a?style=for-the-badge&logo=leetcode&logoColor=f59e0b)
+![Machine Learning](https://img.shields.io/badge/ML%20Basics-0f172a?style=for-the-badge&logo=tensorflow&logoColor=ff9a00)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:0891b2&height=4&width=900" />
+
+</div>
+
+## Milestones so far
+
+- 🧠 **Smart India Hackathon** — participated in the internal round
+- 💡 **FEC Mumbai Hackathon** — participant
+- 🗺️ **Geodata Processing with Python & ML** — completed workshop
+- ⭐ **9.32 SGPA** — Computer Engineering
+
+## A small build philosophy
+
+```text
+Observe  →  Break the problem down  →  Build  →  Test  →  Keep improving
 ```
 
-<br clear="right"/>
+I don’t want to only collect technologies. I want to understand where they fit, why a solution works, and how to make it more useful for the person on the other side of the screen.
+
+## GitHub activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e879f9,50:a855f7,100:818cf8&height=3&width=1000" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tasbiya-Fatima&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&count_private=true&rank_icon=github" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasbiya-Fatima&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0&langs_count=6" height="175" />
+
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tasbiya-Fatima&theme=dark&hide_border=true&background=0F172A&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B)](https://git.io/streak-stats)
 
 </div>
 
-## 🛠️ Tech Stack
+## Beyond the terminal
+
+🌙 Late-night problem solving  
+📚 Notes that turn confusing concepts into simple ones  
+🏁 The energy of a good hackathon  
+☕ Tiny improvements that compound over time
 
 <div align="center">
 
-**Languages**
-<br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Let’s build something useful.
 
-**Web Development**
-<br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
+Whether it’s a project, a challenging idea, or a collaboration, I’m always interested in work that creates a little more clarity in the world.
 
-**Databases**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Say Hello](https://img.shields.io/badge/Let's%20Connect-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasbiya777@gmail.com)
 
-**Tools & Environment**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br />
 
-**Concepts**
-<br/>
-![OOP](https://img.shields.io/badge/OOP-A855F7?style=for-the-badge&logo=buffer&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-EC4899?style=for-the-badge&logo=leetcode&logoColor=white)
-![Backend Basics](https://img.shields.io/badge/Backend%20Basics-0EA5E9?style=for-the-badge&logo=server&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML%20Basics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:164e63,100:0f172a&height=130&section=footer&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e879f9,50:a855f7,100:818cf8&height=3&width=1000" />
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tasbiya-Fatima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e879f9&icon_color=a855f7&text_color=ffffff&count_private=true&rank_icon=github" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasbiya-Fatima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e879f9&text_color=ffffff&langs_count=6" height="175"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tasbiya-Fatima&theme=tokyonight&hide_border=true&background=0D1117&ring=e879f9&fire=f472b6&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=a855f7&dates=888888)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tasbiya-Fatima&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=e879f9&line=a855f7&point=f472b6&area=true&area_color=a855f720)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e879f9,50:a855f7,100:818cf8&height=3&width=1000" />
-
-</div>
-
-## ✨ A Little More About Me
-
-<div align="center">
-
-🌷 &nbsp; Always up for a good hackathon at 2 a.m. &nbsp; 🌷
-<br/>
-📚 &nbsp; Currently deep in DSA problems & full-stack tutorials &nbsp; 📚
-<br/>
-🎧 &nbsp; Code sounds better with lo-fi playing in the background &nbsp; 🎧
-<br/>
-💌 &nbsp; Always happy to collaborate — just say hi! &nbsp; 💌
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:818cf8,50:a855f7,100:e879f9&height=3&width=1000" />
-
-</div>
-
-## 🏆 Achievements & Milestones
-
-| | |
-|:---|:---|
-| 🧠 | Smart India Hackathon (SIH) — Internal Round |
-| 💡 | FEC Mumbai Hackathon — Participant |
-| 🗺️ | Geodata Processing with Python & ML — Workshop |
-| ⭐ | SGPA 9.32 — Computer Engineering (Sem IV) |
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e879f9,50:a855f7,100:818cf8&height=3&width=1000" />
-
-</div>
-
-## 💬 Quote I Live By
-
-<div align="center">
-
-> *"The secret of getting ahead is getting started."* — Mark Twain 🌸
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e879f9,50:a855f7,100:818cf8&height=3&width=1000" />
-
-</div>
-
-<div align="center">
-
-### 📬 Let's Connect!
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasbiya777@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tasbiya-Fatima)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,50:a855f7,100:e879f9&height=130&section=footer&animation=fadeIn"/>
-
-*Made with 💜 by Tasbiya · Powered by curiosity & coffee ☕*
+<sub>Designed with curiosity · Built with patience · Powered by coffee ☕</sub>
 
 </div>
