@@ -8,6 +8,10 @@
 
 <br />
 
+<img src="./assets/cute-coder-hero.png" width="90%" alt="Cute cartoon illustration of Tasbiya coding" />
+
+<br />
+
 [![Gmail](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:tasbiya777@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/Tasbiya-Fatima)
 ![Profile Views](https://komarev.com/ghpvc/?username=Tasbiya-Fatima&color=0891b2&style=for-the-badge&label=VISITORS)
@@ -33,7 +37,7 @@ I enjoy understanding how ideas move from a rough sketch to a reliable applicati
 </td>
 <td width="38%" align="center">
 
-<img src="./assets/cartoon-coder.svg" width="280" alt="Cartoon illustration of Tasbiya programming" />
+<img src="./assets/cute-coder-avatar.png" width="260" alt="Cute cartoon avatar of Tasbiya programming" />
 
 </td>
 </tr>
@@ -58,7 +62,7 @@ I enjoy understanding how ideas move from a rough sketch to a reliable applicati
 | 🤝 Open to | Learning with others and meaningful collaborations |
 
 <div align="center">
-<img src="./assets/cartoon-avatar.svg" width="165" alt="Cartoon avatar of Tasbiya" />
+<img src="./assets/cute-coder-avatar.png" width="165" alt="Cute cartoon avatar of Tasbiya" />
 <br />
 <sub><i>Curious mind. Calm debugger. Persistent builder.</i></sub>
 </div>
