@@ -40,7 +40,7 @@ tasbiya = {
 </p>
 
 <img
-  src="assets/image2.png"
+  src="assets/img3.png"
   width="100%"
 />
 ---
