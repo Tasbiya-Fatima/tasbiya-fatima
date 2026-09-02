@@ -39,8 +39,11 @@ tasbiya = {
   <img src="https://img.shields.io/github/followers/tasbiya-fatima?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
+<img
+  src="assets/image2.png"
+  width="100%"
+/>
 ---
-
 ## 🌱 About Me
 
 I'm a **Computer Engineering student** and **aspiring AI/ML engineer** who enjoys building practical applications with Python, web technologies, data tools, and backend systems.
