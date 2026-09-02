@@ -3,7 +3,6 @@
   width="100%"
 />
 
-
 <div align="center">
 
 # Hello, I'm Tasbiya Fatima MD Hanif Shaikh 👋
@@ -193,3 +192,7 @@ During my academic internship and training projects, I worked on full-stack deve
 <p align="center">
   <i>Learning continuously. Building practically. Growing intentionally.</i>
 </p>
+<img
+  src="assets/image1.png"
+  width="100%"
+/>
