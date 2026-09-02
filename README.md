@@ -1,5 +1,5 @@
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Tasbiya%20Fatima&fontSize=42&fontAlignY=35&animation=twinkling"
+  src="assets/image.png"
   width="100%"
 />
 
