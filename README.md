@@ -1,3 +1,9 @@
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Tasbiya%20Fatima&fontSize=42&fontAlignY=35&animation=twinkling"
+  width="100%"
+/>
+
+
 <div align="center">
 
 # Hello, I'm Tasbiya Fatima MD Hanif Shaikh 👋
