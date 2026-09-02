@@ -1,5 +1,5 @@
 <img
-  src="assets/image.png"
+  src="assets/image2.png"
   width="100%"
 />
 
@@ -193,6 +193,6 @@ During my academic internship and training projects, I worked on full-stack deve
   <i>Learning continuously. Building practically. Growing intentionally.</i>
 </p>
 <img
-  src="assets/image1.png"
+  src="assets/image.png"
   width="100%"
 />
